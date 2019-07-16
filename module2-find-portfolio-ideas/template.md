@@ -4,14 +4,15 @@
 
 What do you care about?
 
-Stock Market and Option Trading
+Great Animated Shows like Rick & morty, DBZ, and One Punch Man. 
 
 What do you know about?
-4+ years of option trading experience. 
+
+All of the above mentioned shows I've not only seen every episode many times, but I've also gone deeper into the philsophies and underlying premises of each. Plus gone to depths of exploring each character of interest to get a full understanding of them. 
 
 What decisions do you face?
 
-When it comes to this project, whilst Im confident I could come to solid conclusions about the stock market based on data, the inherent difficulty in predicting moves adds a degree of credibility as well as complexity. 
+For this one, I've found some nice data sets on the first two, not so much the third one. 
 
 ## Seven templates
 
@@ -21,61 +22,61 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
-Would definitely stick with US based markets. 
+These are all shown in a handful of countries so would definitely stick to US as well as the original country it was made in if it's not US made.  
 
 2. Trend related to the news
 
-The very nature of the stock market and how it fluctuates is based on news, so this topic wouldn't be lacking in this department. 
+Rick & Morty as well as OPM are in the news since they are either in current seasons or new ones starting soon. Dragon ball not as much for the news category.  
 
 3. Who does that?
 
-Mostly rich retired people that have plenty of money to blow, and degenerate gamblers.
+Each of these have very devoted communites on Youtube as well as Reddit(the two main ones I know of) as well as wikis and things of the like, and when I say devoted communites, I really mean that they're SERIOUSLY devoted lol. 
 
 4. Answering a question people care about
 
-Who Doesn't want to get accurate stock market information that could make them money? A way to make someone more money is something that is always in demand. 
+Each of these shows do spark debates of hypotheticals as well as character motives, future predictors and things of the like, all of which could be plotted out with data. 
 
 5. Valuable to businesses
 
-The exciting aspect about using this topic as my project is that big banks such at Goldman or JPMorgan could see a good prospect when it comes to hiring. 
+Not so much value to business here. With the exception being if I wanted to go get hired at either a studio or perhaps a video game company like Rockstar upon graduation. 
 
 6. What's the most popular?
 
-Within the stock world, theres always a handful of the most popular stocks. And this occurs on multiple time frames ie, one week, one month, even up to half a century when it comes to long term value investing and what's most popular in that arena. 
+Within their own communites, much popularity debates and divisions take place. 
 
 7. Cost/Money rankings
 
-From an investment banking side, they're always looking for an edge, and by providing an edge that'll save them/make them money across the board.
+Can't see this topic being real big in the cost cutting arena. 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
 
-There's so many it's hard to even know where to begin. I'd say, the biggest misconception is how massively people underestimate the role that human anture plays in the market and in one's own personal investing. 
+Each of these shows produce an emotioal frenzy in the engaged fan, and thus spur on debates with opinions that may not be all that well substantiated with logic or reason lol, and thus with DS I could actually go and provide solid evidentiary support for a hypothesis(Haven't arrived at one yet.) 
 
 ## Examples
 
 What data storytelling example inspires you?
 
-I was struck by the net neutrality one we went over in class. I like the idea of coming to some conclusion that's supported by evidence that shocks the current in place way of looking at things. 
+I've been looking at the Rick & Morty API data set since the stretch goal in week one, then today seeing the Simpsons example during lecture increased my interest in this topic even further. 
 
 Could you do a new hypothesis, for the same question?
 
-Certainly, the market is so multi faceted and in constant flux that it's definitely possible. 
+Certainly, any hypothesis made is based only on whats been shown in the show so far, so its always suseptible to change.  
 
 Could you do a new question, for the same topic?
 
-Defintely, there's no shortage of content in this arena. 
+Defintey, I have a lot of interest in these shows so I could take questions in all sorts of directions.  
 
 Could you do a new topic, with the same "style"?
 
-I don't see why not, any skill based activity could be used with this "style."
+For sure, I'd have two more shows to use this "style" on. 
 
 ## Data
 
 Where could you search for data about your topic?
 
-I've already found a nice one on Kaggle, still debating if I'd want to use it though. 
+I found a nice DBZ one on Kaggle, theres the Rick & Morty API, However I've struggled with finding OPM data. 
 
 # Assignment!
 
